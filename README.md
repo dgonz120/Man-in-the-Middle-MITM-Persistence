@@ -1,5 +1,5 @@
 
-# Man-in-the-Middle Attack on Access Point Management (ARP Spoofing + Credential Capture)
+# Man-in-the-Middle Attack on Access Point Management
 
 ## Project Overview
 
